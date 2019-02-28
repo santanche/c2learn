@@ -9,4 +9,4 @@ jupyter labextension install @jupyterlab/github
 jupyter lab build
 
 #Install C Kernel
-install_c_kernel
+install_c_kernel --user
