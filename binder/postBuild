@@ -7,6 +7,3 @@ jupyter labextension install @jupyterlab/github
 
 # Building everything
 jupyter lab build
-
-# final touches
-rm conda-bld -R
