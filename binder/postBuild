@@ -1,0 +1,12 @@
+# Git Jupyter Lab extension 
+jupyter labextension install @jupyterlab/git
+jupyter serverextension enable --py jupyterlab_git
+
+# Github Jupyter Lab extension
+jupyter labextension install @jupyterlab/github
+
+# Building everything
+jupyter lab build
+
+# final touches
+rm conda-bld -R
