@@ -9,3 +9,5 @@ Examples and exercises in C and C++. We currently have only the Portuguese versi
 > pip install jupyter-c-kernel
 
 > install_c_kernel --user
+
+> jupyter notebook
