@@ -5,5 +5,7 @@ Examples and exercises in C and C++. We currently have only the Portuguese versi
 
 ## Running locally basic C kernel
 > pip install jupyter
+
 > pip install jupyter-c-kernel
+
 > install_c_kernel --user
