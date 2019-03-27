@@ -1,10 +1,14 @@
+Para todos os roteiros a seguir, acione o binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/master?urlpath=lab), carregue o notebook de dentro do Binder e realize o que for solicitado.
+
 # Roteiro 01 - Modularização de código
 
-(ainda não dispinível)
+## Dentro do Binder
+
+Entre no diretório `s01exercicios` abaixo deste diretório: `notebook/pt/c51oo/s01emprestimo/s01exercicios`.
+
+Abra o notebook 'emprestimo01.ipynb' que está na pasta e resolva as atividades propostas.
 
 # Roteiro 02 / Parte A - Partindo de `structs` em C para classes em C++
-
-Acione o binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/master?urlpath=lab)
 
 ## Dentro do Binder
 
