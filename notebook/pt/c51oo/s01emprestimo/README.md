@@ -1,3 +1,11 @@
+# Introdução
+
+Os exercícios são preparados para serem executados no ambiente Jupyter sob o Binder. Para ativar o ambiente online clique em: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/master?urlpath=lab)
+
+Para entender o que é o Jupyter e o Binder assista o vídeo do Matheus Mota:
+
+[![Ciência de Dados com Jupyter, Jupyter Lab e Binder](https://img.youtube.com/vi/06956ciCx4A/0.jpg)](https://www.youtube.com/watch?v=06956ciCx4A)
+
 Para todos os roteiros a seguir, acione o binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/master?urlpath=lab), carregue o notebook de dentro do Binder e realize o que for solicitado.
 
 # Roteiro 01 - Modularização de código
