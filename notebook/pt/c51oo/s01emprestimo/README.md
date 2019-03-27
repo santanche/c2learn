@@ -16,6 +16,11 @@ Entre no diretório `s01exercicios` abaixo deste diretório: `notebook/pt/c51oo/
 
 Abra o notebook 'emprestimo01.ipynb' que está na pasta e resolva as atividades propostas.
 
+Após resolver os exercícios, veja resolução na pasta `notebook/pt/c51oo/s01emprestimo/s02resolucao` e assista o vídeo a seguir que comenta a resolução.
+
+[![Problema do Empréstimo](https://img.youtube.com/vi/7Gy6fKWhS3s/0.jpg)](https://www.youtube.com/watch?v=7Gy6fKWhS3s)
+
+
 # Roteiro 02 / Parte A - Partindo de `structs` em C para classes em C++
 
 ## Dentro do Binder
