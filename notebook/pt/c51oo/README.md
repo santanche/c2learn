@@ -33,7 +33,7 @@ No diretório `notebook/pt/c51oo/s02classe-emprestimo` veja como a `struct` é t
 
 ## Próxima etapa em Java
 
-A próxima etapa envolve a transformação da classe C++ em Java e está detalhada em: [Roteiro 2 - Parte B](https://github.com/santanche/java2learn/new/master/notebooks/pt/c02oo).
+A próxima etapa envolve a transformação da classe C++ em Java e está detalhada em: [Roteiro 2 - Parte B](https://github.com/santanche/java2learn/tree/master/notebooks/pt/c02oo).
 
 # Roteiro 03 / Parte A - Polimorfismo
 *Laboratório em 02/04/2019*
@@ -43,4 +43,4 @@ A próxima etapa envolve a transformação da classe C++ em Java e está detalha
 Entre no diretório `notebook/pt/c51oo/s03polimorfismo-poligono`.
 Acompanhe a explicação do notebook.
 
-A próxima etapa envolve polimorfismo em Java e está detalhada em: [Roteiro 4 - Parte A](https://github.com/santanche/java2learn/new/master/notebooks/pt/c02oo).
+A próxima etapa envolve polimorfismo em Java e está detalhada em: [Roteiro 4 - Parte A](https://github.com/santanche/java2learn/tree/master/notebooks/pt/c02oo).
