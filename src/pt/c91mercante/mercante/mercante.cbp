@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="mercante" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/mercante" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="ator" />
+					<Add directory="modulos" />
+					<Add directory="testes" />
+					<Add directory="ator/asdrubal" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/mercante" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="ator" />
+					<Add directory="modulos" />
+					<Add directory="testes" />
+					<Add directory="ator/asdrubal" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="modulos" />
+			<Add directory="." />
+		</Compiler>
+		<Unit filename="ator/asdrubal/ator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ator/asdrubal/ator.h" />
+		<Unit filename="mercante-susy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mercante.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/caixa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/caixa.h" />
+		<Unit filename="modulos/interface.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/interface.h" />
+		<Unit filename="modulos/linguagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/linguagem.h" />
+		<Unit filename="modulos/mercadoria.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/mercadoria.h" />
+		<Unit filename="modulos/nave.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/nave.h" />
+		<Unit filename="modulos/planeta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/planeta.h" />
+		<Unit filename="modulos/robo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/robo.h" />
+		<Unit filename="modulos/status.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/status.h" />
+		<Unit filename="modulos/universo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modulos/universo.h" />
+		<Unit filename="testes/testes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="testes/testes.h" />
+		<Extensions>
+			<code_completion>
+				<search_path add="modulos" />
+				<search_path add="ator" />
+				<search_path add="testes" />
+			</code_completion>
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

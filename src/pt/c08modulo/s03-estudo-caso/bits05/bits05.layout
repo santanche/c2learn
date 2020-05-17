@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="bits05.c" open="0" top="0" tabpos="0">
+		<Cursor position="1004" topLine="23" />
+	</File>
+	<File name="bits05module.c" open="0" top="0" tabpos="0">
+		<Cursor position="92" topLine="5" />
+	</File>
+	<File name="bits05module.h" open="0" top="0" tabpos="0">
+		<Cursor position="59" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

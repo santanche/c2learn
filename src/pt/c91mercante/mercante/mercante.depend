@@ -1,0 +1,565 @@
+# depslib dependency file v1.0
+1337011996 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\mercante.c
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"ator.h"
+
+1337013805 
+
+1336660118 ator.h"
+
+1332715122 h"
+
+1331567153 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\mainfunc.c
+
+1338230678 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\planeta.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"status.h"
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+
+1338222484 a.h"
+
+1337010143 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\caixa.c
+	<string.h>
+	<stdio.h>
+	"status.h"
+	"planeta.h"
+	"robo.h"
+
+1338568251 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\mercadoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"status.h"
+	"mercadoria.h"
+
+1338564028 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\mercadoria.h
+
+1338570513 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\planeta.h
+
+1332123157 source:c:\users\andre\desktop\c91mercante\mercante\mercante.c
+	"planeta.h"
+	"mercadoria.h"
+	<stdio.h>
+
+1332123261 source:c:\users\andre\desktop\c91mercante\mercante\modulos\caixa.c
+	"status.h"
+
+1331567153 source:c:\users\andre\desktop\c91mercante\mercante\mainfunc.c
+
+1332120484 source:c:\users\andre\desktop\c91mercante\mercante\modulos\mercadoria.c
+	"mercadoria.h"
+
+1332120935 c:\users\andre\desktop\c91mercante\mercante\modulos\mercadoria.h
+
+1332122976 source:c:\users\andre\desktop\c91mercante\mercante\modulos\planeta.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"status.h"
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+
+1332122605 c:\users\andre\desktop\c91mercante\mercante\modulos\planeta.h
+
+1332123106 source:c:\users\andre\desktop\c91mercante\mercante\modulos\interface.c
+	"planeta.h"
+
+1332123106 "
+
+1332120337 c:\users\andre\desktop\c91mercante\mercante\mercante.h
+
+1332122769 c:\users\andre\desktop\c91mercante\mercante\status.h
+
+1332122894 c:\users\andre\desktop\c91mercante\mercante\modulos\caixa.h
+
+1332172043 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\status.h
+
+1338554121 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\interface.c
+	<stdio.h>
+	"planeta.h"
+	"mercadoria.h"
+	"caixa.h"
+	"nave.h"
+	"robo.h"
+	"interface.h"
+	"ator.h"
+
+1337010838 .h"
+
+1335735761 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\caixa.h
+
+1338554032 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\nave.h
+
+1338554049 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\nave.c
+	"mercadoria.h"
+	"nave.h"
+	"status.h"
+
+1338571299 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\robo.c
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	"nave.h"
+	"robo.h"
+	"status.h"
+	"linguagem.h"
+	"ator.h"
+
+1337010657 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\robo.h
+
+1332175372 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\programa.h
+
+1332123261 source:c:\users\andre\desktop\mercante\modulos\caixa.c
+	"status.h"
+
+1332711061 c:\users\andre\desktop\mercante\status.h
+
+1332175474 source:c:\users\andre\desktop\mercante\modulos\programa.c
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+
+1332122894 c:\users\andre\desktop\mercante\modulos\caixa.h
+
+1332713758 c:\users\andre\desktop\mercante\modulos\mercadoria.h
+
+1332713792 c:\users\andre\desktop\mercante\modulos\planeta.h
+
+1332174320 c:\users\andre\desktop\mercante\modulos\robo.h
+
+1332715475 source:c:\users\andre\desktop\mercante\modulos\robo.c
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	"nave.h"
+	"robo.h"
+	"status.h"
+
+1332714901 c:\users\andre\desktop\mercante\modulos\nave.h
+
+1332715122 source:c:\users\andre\desktop\mercante\modulos\interface.c
+	"planeta.h"
+	"mercadoria.h"
+	"caixa.h"
+	"nave.h"
+	"robo.h"
+	"programa.h"
+
+1332175370 c:\users\andre\desktop\mercante\modulos\programa.h
+
+1332714221 source:c:\users\andre\desktop\mercante\modulos\mercadoria.c
+	"status.h"
+	"mercadoria.h"
+
+1332714820 source:c:\users\andre\desktop\mercante\modulos\nave.c
+	"mercadoria.h"
+	"nave.h"
+	"status.h"
+
+1332713962 source:c:\users\andre\desktop\mercante\modulos\planeta.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"status.h"
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+
+1332715557 source:c:\users\andre\desktop\mercante\mercante.c
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+
+1337011996 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/mercante.c
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"programa.h"
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"ator.h"
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"ator.h"
+
+1338570513 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/planeta.h
+
+1338564028 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/mercadoria.h
+
+1338554032 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/nave.h
+
+1338554121 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/interface.c
+	<stdio.h>
+	"planeta.h"
+	"mercadoria.h"
+	"caixa.h"
+	"nave.h"
+	"robo.h"
+	"programa.h"
+	"interface.h"
+	<stdio.h>
+	"planeta.h"
+	"mercadoria.h"
+	"caixa.h"
+	"nave.h"
+	"robo.h"
+	"programa.h"
+	"interface.h"
+	<stdio.h>
+	"planeta.h"
+	"mercadoria.h"
+	"caixa.h"
+	"nave.h"
+	"robo.h"
+	"interface.h"
+	"ator.h"
+	<stdio.h>
+	"planeta.h"
+	"mercadoria.h"
+	"caixa.h"
+	"nave.h"
+	"robo.h"
+	"interface.h"
+	"ator.h"
+
+1335735761 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/caixa.h
+
+1337010657 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/robo.h
+
+1332175372 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/programa.h
+
+1338568251 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/mercadoria.c
+	<stdio.h>
+	"status.h"
+	"mercadoria.h"
+	<stdio.h>
+	"status.h"
+	"mercadoria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"status.h"
+	"mercadoria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"status.h"
+	"mercadoria.h"
+
+1332762551 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/status.h
+
+1338570502 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/planeta.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"status.h"
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"status.h"
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"status.h"
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"status.h"
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+
+1332965732 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/programa.c
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+
+1337010143 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/caixa.c
+	"status.h"
+	"status.h"
+	<string.h>
+	<stdio.h>
+	"status.h"
+	"planeta.h"
+	"robo.h"
+	<string.h>
+	<stdio.h>
+	"status.h"
+	"planeta.h"
+	"robo.h"
+
+1338554049 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/nave.c
+	"mercadoria.h"
+	"nave.h"
+	"status.h"
+	"mercadoria.h"
+	"nave.h"
+	"status.h"
+	"mercadoria.h"
+	"nave.h"
+	"status.h"
+	"mercadoria.h"
+	"nave.h"
+	"status.h"
+
+1338571299 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/robo.c
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	"nave.h"
+	"robo.h"
+	"status.h"
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	"nave.h"
+	"robo.h"
+	"status.h"
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	"nave.h"
+	"robo.h"
+	"status.h"
+	"linguagem.h"
+	"ator.h"
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"caixa.h"
+	"mercadoria.h"
+	"nave.h"
+	"robo.h"
+	"status.h"
+	"linguagem.h"
+	"ator.h"
+
+1332777129 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/interface.h
+
+1332777708 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/status.h
+
+1332777976 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/status.c
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"robo.h"
+	"status.h"
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"robo.h"
+	"status.h"
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"robo.h"
+	"status.h"
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"robo.h"
+	"status.h"
+
+1337013832 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\mercante-susy.c
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"robo.h"
+	"ator.h"
+
+1332777129 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\interface.h
+
+1332777708 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\status.h
+
+1332965732 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\programa.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+
+1332777976 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\status.c
+	<stdio.h>
+	<string.h>
+	"planeta.h"
+	"robo.h"
+	"status.h"
+
+1337013832 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/mercante-susy.c
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"robo.h"
+	"programa.h"
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"robo.h"
+	"ator.h"
+	"planeta.h"
+	"mercadoria.h"
+	"nave.h"
+	"interface.h"
+	"robo.h"
+	"ator.h"
+
+1336658161 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\ator\ator01.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"universo.h"
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+	"linguagem.h"
+	"status.h"
+	"ator01.h"
+
+1338568539 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\linguagem.h
+
+1339161875 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\linguagem.c
+	"linguagem.h"
+
+1336658199 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\ator\ator01.h
+
+1338570652 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\universo.c
+	<string.h>
+	"planeta.h"
+	"status.h"
+	"robo.h"
+
+1335737740 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\modulos\universo.h
+
+1338553127 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\ator\asdrubal\ator.h
+
+1338571630 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\ator\asdrubal\ator.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"universo.h"
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+	"linguagem.h"
+	"status.h"
+	"testes.h"
+	"ator.h"
+
+1336658199 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/ator/ator01.h
+
+1338553127 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/ator/asdrubal/ator.h
+
+1337010838 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/linguagem.c
+	"linguagem.h"
+	"linguagem.h"
+
+1338568539 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/linguagem.h
+
+1338570652 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/universo.c
+	<string.h>
+	"planeta.h"
+	"status.h"
+	"robo.h"
+	<string.h>
+	"planeta.h"
+	"status.h"
+	"robo.h"
+
+1338571262 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/ator/asdrubal/ator.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"universo.h"
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+	"linguagem.h"
+	"status.h"
+	"testes.h"
+	"ator.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"universo.h"
+	"caixa.h"
+	"mercadoria.h"
+	"planeta.h"
+	"robo.h"
+	"linguagem.h"
+	"status.h"
+	"testes.h"
+	"ator.h"
+
+1335737740 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/modulos/universo.h
+
+1337009395 /mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/testes/testes.h
+
+1337013805 source:/mnt/hgfs/Alcebiades/desenvolvimento/c/c2learn/pt/c91mercante/mercante/testes/testes.c
+	<stdio.h>
+	<string.h>
+	"testes.h"
+	<stdio.h>
+	<string.h>
+	"testes.h"
+
+1337009395 i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\testes\testes.h
+
+1337013805 source:i:\desenvolvimento\c\c2learn\pt\c91mercante\mercante\testes\testes.c
+	<stdio.h>
+	<string.h>
+	"testes.h"
+

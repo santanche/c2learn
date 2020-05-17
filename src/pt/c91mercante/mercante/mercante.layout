@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="ator\asdrubal\ator.c" open="0" top="0" tabpos="0">
+		<Cursor position="382" topLine="11" />
+	</File>
+	<File name="ator\asdrubal\ator.h" open="0" top="0" tabpos="0">
+		<Cursor position="202" topLine="0" />
+	</File>
+	<File name="mercante-susy.c" open="0" top="0" tabpos="0">
+		<Cursor position="276" topLine="0" />
+	</File>
+	<File name="mercante.c" open="0" top="0" tabpos="6">
+		<Cursor position="101" topLine="0" />
+	</File>
+	<File name="modulos\caixa.c" open="0" top="0" tabpos="7">
+		<Cursor position="19" topLine="42" />
+	</File>
+	<File name="modulos\caixa.h" open="0" top="0" tabpos="3">
+		<Cursor position="154" topLine="0" />
+	</File>
+	<File name="modulos\interface.c" open="0" top="0" tabpos="3">
+		<Cursor position="543" topLine="65" />
+	</File>
+	<File name="modulos\interface.h" open="0" top="0" tabpos="0">
+		<Cursor position="80" topLine="0" />
+	</File>
+	<File name="modulos\linguagem.c" open="0" top="0" tabpos="0">
+		<Cursor position="125" topLine="0" />
+	</File>
+	<File name="modulos\linguagem.h" open="0" top="0" tabpos="0">
+		<Cursor position="26" topLine="0" />
+	</File>
+	<File name="modulos\mercadoria.c" open="0" top="0" tabpos="5">
+		<Cursor position="307" topLine="15" />
+	</File>
+	<File name="modulos\mercadoria.h" open="0" top="0" tabpos="2">
+		<Cursor position="742" topLine="0" />
+	</File>
+	<File name="modulos\nave.c" open="0" top="0" tabpos="4">
+		<Cursor position="2934" topLine="27" />
+	</File>
+	<File name="modulos\nave.h" open="0" top="0" tabpos="2">
+		<Cursor position="462" topLine="5" />
+	</File>
+	<File name="modulos\planeta.c" open="0" top="0" tabpos="1">
+		<Cursor position="5583" topLine="168" />
+	</File>
+	<File name="modulos\planeta.h" open="0" top="0" tabpos="2">
+		<Cursor position="1099" topLine="24" />
+	</File>
+	<File name="modulos\robo.c" open="0" top="0" tabpos="4">
+		<Cursor position="2704" topLine="81" />
+	</File>
+	<File name="modulos\robo.h" open="0" top="0" tabpos="7">
+		<Cursor position="669" topLine="0" />
+	</File>
+	<File name="modulos\status.c" open="0" top="0" tabpos="0">
+		<Cursor position="160" topLine="0" />
+	</File>
+	<File name="modulos\status.h" open="0" top="0" tabpos="8">
+		<Cursor position="351" topLine="0" />
+	</File>
+	<File name="modulos\universo.c" open="0" top="0" tabpos="0">
+		<Cursor position="308" topLine="0" />
+	</File>
+	<File name="testes\testes.c" open="0" top="0" tabpos="0">
+		<Cursor position="1125" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

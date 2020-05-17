@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1299021486 source:i:\desenvolvimento\c\sala\modules-case-study\bits05\bits05module.c
+	"bits05module.h"
+
+1299021543 i:\desenvolvimento\c\sala\modules-case-study\bits05\bits05module.h
+
+1299021493 source:i:\desenvolvimento\c\sala\modules-case-study\bits05\bits05.c
+	"bits05module.h"
+
