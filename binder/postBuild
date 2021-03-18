@@ -1,9 +1,9 @@
-# Git Jupyter Lab extension 
-jupyter labextension install @jupyterlab/git
-jupyter serverextension enable --py jupyterlab_git
+# Git Jupyter Lab extension
+# jupyter labextension install @jupyterlab/git
+# jupyter serverextension enable --py jupyterlab_git
 
 # Github Jupyter Lab extension
-jupyter labextension install @jupyterlab/github
+# jupyter labextension install @jupyterlab/github
 
 # Building everything
 jupyter lab build
