@@ -3,7 +3,7 @@ Examples and exercises in C and C++. We currently have only the Portuguese versi
 
 The last stable tested and stable version:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/v1.0.0?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/v1.0.1?urlpath=lab)
 
 The last available version:
 
@@ -17,7 +17,7 @@ Os exercícios são preparados para serem executados no ambiente Jupyter sob o B
 
 * Última versão testada e estável:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/v1.0.0?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/c2learn/v1.0.1?urlpath=lab)
 
 * Última versão disponível:
 
